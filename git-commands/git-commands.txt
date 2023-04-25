@@ -1,0 +1,23 @@
+git init
+git add .
+git add README.md  // did not work
+git commit -m "message"
+git remote add origin git@github.com:<username>/github.git
+
+
+
+
+
+git clone <repo Url>
+
+
+
+
+
+
+
+
+
+
+
+
