@@ -14,7 +14,7 @@ To push the current branch and set the remote as upstream, use
 
 
 git clone <repo Url>
-
+git pull --rebase origin main
 
 gh repo create 
 gh repo create --remote
