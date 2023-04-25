@@ -14,6 +14,8 @@ To push the current branch and set the remote as upstream, use
 
 
 git clone <repo Url>
+
+**** git pull origin main/master
 git pull --rebase origin main
 # General format
 git pull OPTIONS REPOSITORY REFSPEC
