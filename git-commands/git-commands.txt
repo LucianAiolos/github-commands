@@ -3,13 +3,21 @@ git add .
 git add README.md  // did not work
 git commit -m "message"
 git remote add origin git@github.com:<username>/github.git
+git push // need to set upstream branch
 
+/// might have to git pull first after creating repo??
+ 
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
 
-
+    git push --set-upstream origin main
 
 
 git clone <repo Url>
 
+
+gh repo create 
+gh repo create --remote
 
 
 
