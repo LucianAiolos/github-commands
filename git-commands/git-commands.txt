@@ -38,3 +38,7 @@ git remote add origin addressURL
 
 
 
+*** to make new brand and switch to it
+git checkout -b  BRANCHname
+then to set the upstream ***
+git push --set-upstream origin BRANDname
