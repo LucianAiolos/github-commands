@@ -31,6 +31,10 @@ gh repo create --remote
 git ls-remote // to check if repo exists
 
 
+DOCUMENTATION TO START A REPO AND PUSH UPSTREAM (REMOTE) can be found on github repo when it is created.
+***
+git branch -M main
+git remote add origin addressURL
 
 
 
