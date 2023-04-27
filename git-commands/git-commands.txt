@@ -41,4 +41,12 @@ git remote add origin addressURL
 *** to make new brand and switch to it
 git checkout -b  BRANCHname
 then to set the upstream ***
-git push --set-upstream origin BRANDname
+git push --set-upstream origin BRANCHname
+
+
+*** pull request
+gh pr create 
+**then you will be prompted 
+>title of pull request
+>body (message body)
+>next   --- continue in broser most likely
