@@ -6,9 +6,16 @@ git add .
 git add README.md  // did not work
 git commit -m "message"
 git remote add origin URL
+
+
+
 git push // need to set upstream branch
 
+git pull --rebase origin master git push origin master  //// if your local files are "behind" remote files
+// you have to pull and merge with your first!!!!!
 /// might have to git pull first after creating repo??
+ 
+ 
  
 fatal: The current branch main has no upstream branch.
 To push the current branch and set the remote as upstream, use
