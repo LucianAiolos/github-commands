@@ -60,3 +60,6 @@ gh pr create
 >title of pull request
 >body (message body)
 >next   --- continue in broser most likely
+
+** Open repo in browser
+gh browse
