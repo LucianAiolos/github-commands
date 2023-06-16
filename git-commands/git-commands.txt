@@ -72,3 +72,11 @@ gh pr create
 
 ** Open repo in browser
 gh browse
+
+
+*** branch related operations
+
+git rev-parse --abbrev-ref HEAD
+-gets you the name of the current branch you are on
+
+
